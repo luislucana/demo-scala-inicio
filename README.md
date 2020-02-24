@@ -2,4 +2,4 @@
 
 ## Links para consulta
 
-- https://w ww.baeldung.com/scala-intro
+- https://www.baeldung.com/scala-intro
