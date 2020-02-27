@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8c040f24-ffe8-4f41-9adc-64c795396884" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula01/HelloWorld.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula01/OlaMundo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula01/HelloWorld$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula01/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula04/CriandoMetodosAvancados.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula04/CriandoMetodosAvancados.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula04/CriandoMetodosAvancados$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/demo/aula04/CriandoMetodosAvancados$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula04/CriandoMetodosAvancados.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/demo/aula04/CriandoMetodosAvancados.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +16,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula04/CriandoMetodosAvancados.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="43" column="40" lean-forward="true" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+            <state relative-caret-position="354">
+              <caret line="89" column="28" lean-forward="true" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/util/Employee.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="25" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula05/Funcionario.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula06/Pet.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula05/TesteCriacaoClasse.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -43,6 +77,10 @@
       <find>PatternMatching</find>
       <find>def power</find>
       <find>mapReduce</find>
+      <find>=&gt;</find>
+      <find>employee</find>
+      <find>annualIncrement</find>
+      <find>incrementSalary</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -78,6 +116,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/demo/util/PatternMatching.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula04/CriandoFuncoes.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula04/CriandoMetodosAvancados.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula05/TesteFuncionario.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula05/Funcionario.scala" />
       </list>
     </option>
   </component>
@@ -205,7 +245,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -282,6 +321,24 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="aula05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-scala-inicio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-scala-inicio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="aula06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-scala-inicio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-scala-inicio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -309,11 +366,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582671602526" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582772242808" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -336,7 +394,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CriandoMetodosAvancados">
+  <component name="RunManager" selected="Application.TesteFuncionario">
     <configuration name="CriandoMetodosAvancados" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.demo.aula04.CriandoMetodosAvancados" />
       <module name="demo-scala-inicio" />
@@ -363,10 +421,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OlaMundo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.aula01.OlaMundo" />
+    <configuration name="OlaMundo2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.aula01.OlaMundo2" />
       <module name="demo-scala-inicio" />
-      <option name="PROGRAM_PARAMETERS" value="&quot;Olá mundo!&quot; &quot;Blablabla&quot;" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.demo.aula01.*" />
@@ -377,12 +434,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OlaMundo2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.aula01.OlaMundo2" />
+    <configuration name="TesteFuncionario" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.aula05.TesteCriacaoClasse" />
       <module name="demo-scala-inicio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demo.aula01.*" />
+          <option name="PATTERN" value="com.demo.aula05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -405,19 +462,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.OlaMundo" />
       <item itemvalue="Application.CriandoMetodosECondicoes" />
       <item itemvalue="Application.OlaMundo2" />
       <item itemvalue="JUnit.PatternMatchingUnitTest" />
       <item itemvalue="Application.CriandoMetodosAvancados" />
+      <item itemvalue="Application.TesteFuncionario" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteFuncionario" />
         <item itemvalue="Application.CriandoMetodosAvancados" />
         <item itemvalue="JUnit.PatternMatchingUnitTest" />
         <item itemvalue="Application.OlaMundo2" />
         <item itemvalue="Application.CriandoMetodosECondicoes" />
-        <item itemvalue="Application.OlaMundo" />
       </list>
     </recent_temporary>
   </component>
@@ -472,7 +529,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.28560606" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.29469696" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3283582" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -480,7 +537,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.23880596" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.23880596" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39966834" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -587,13 +644,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/util/Employee.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/com/demo/EmployeeUnitTest.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -642,10 +692,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.7/scala-library-2.12.7.jar!/scala/Predef.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="99" column="6" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.12.7/scala-library-2.12.7-sources.jar!/scala/Predef.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="392" column="6" selection-start-line="392" selection-start-column="6" selection-end-line="392" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula04/CriandoMetodosAvancados.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="43" column="40" lean-forward="true" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+        <state relative-caret-position="354">
+          <caret line="89" column="28" lean-forward="true" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/util/Employee.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula05/TesteCriacaoClasse.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula06.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula05/Funcionario.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula06/Pet.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
