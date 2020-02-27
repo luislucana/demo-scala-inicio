@@ -89,4 +89,9 @@ object CriandoMetodosAvancados extends App {
   //val sum = add(29)(_)
 
   println("sum = " + sum(7))
+
+  /**
+    * (4) By-name parameters
+    * VER AS CLASSES TesteParametersByValue e TesteParametersByName, NESTA ORDEM.
+    */
 }
