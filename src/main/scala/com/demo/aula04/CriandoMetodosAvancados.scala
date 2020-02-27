@@ -70,11 +70,12 @@ object CriandoMetodosAvancados extends App {
     * https://docs.scala-lang.org/tour/higher-order-functions.html
     */
   val salaries = Seq(20000, 70000, 40000)
-  val doubleSalary = (x: Int) => x * 2 // funcao anonima
-  val newSalaries = salaries.map(doubleSalary) // List(40000, 140000, 80000)
+  val doubleSalary = (x: Int) => x * 2.1 // funcao anonima
+  //def bla(x: Int)  = x * 2.1
+  //val newSalaries = salaries.map(doubleSalary) // List(40000, 140000, 80000)
   // outras formas de fazer a mesma coisa:
   // val newSalaries = salaries.map(x => x * 2) // List(40000, 140000, 80000)
-  // val newSalaries = salaries.map(_ * 2)
+  val newSalaries = salaries.map(_ * 2)
 
   println("newSalaries = " + newSalaries)
 
