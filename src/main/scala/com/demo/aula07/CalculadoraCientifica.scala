@@ -1,4 +1,4 @@
-package com.demo.aula06
+package com.demo.aula07
 
 class CalculadoraCientifica(marca: String) extends Calculadora(marca) {
 

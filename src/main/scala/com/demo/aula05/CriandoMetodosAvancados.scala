@@ -1,4 +1,4 @@
-package com.demo.aula04
+package com.demo.aula05
 
 /**
   * Scala is a functional language. Functions are first-class values here – we can

@@ -1,4 +1,4 @@
-package com.demo.aula06
+package com.demo.aula07
 
 class Calculadora(marca: String) {
 

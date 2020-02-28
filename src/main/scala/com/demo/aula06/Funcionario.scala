@@ -1,4 +1,4 @@
-package com.demo.aula05
+package com.demo.aula06
 
 /**
   * AULA 05 - Criando uma classe

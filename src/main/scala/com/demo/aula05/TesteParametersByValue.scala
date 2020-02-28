@@ -1,14 +1,13 @@
-package com.demo.aula04
+package com.demo.aula05
 
-object TesteParametersByName extends App {
+object TesteParametersByValue extends App {
 
   def time(): Long = {
-    println("Entered time() ...")
+    println("In time()")
     System.nanoTime
   }
 
-  // 't' is now defined as a by-name parameter
-  def exec(t: => Long): Long = {
+  def exec(t: Long): Long = {
     println("Entered exec, calling t ...")
     println("t = " + t)
     println("Calling t again ...")

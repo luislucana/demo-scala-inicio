@@ -1,4 +1,4 @@
-package com.demo.aula05
+package com.demo.aula06
 
 object TesteCriacaoClasse extends App {
   val funcionario = new Funcionario("Fulano de tal", 1000)

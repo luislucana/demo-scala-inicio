@@ -3,7 +3,68 @@
   <component name="ChangeListManager">
     <list default="true" id="eac4d014-f715-4916-845a-5c1f6904a81f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula04/CriandoMetodosAvancados.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula04/CriandoMetodosAvancados.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula04/CriandoMetodosAvancados.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula05/CriandoMetodosAvancados.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula04/TesteParametersByName.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula05/TesteParametersByName.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula04/TesteParametersByValue.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula05/TesteParametersByValue.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula05/Funcionario.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula06/Funcionario.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula05/TesteCriacaoClasse.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula06/TesteCriacaoClasse.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula06/Calculadora.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula07/Calculadora.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula06/CalculadoraCientifica.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula07/CalculadoraCientifica.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula06/TesteHeranca.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula07/TesteHeranca.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula01/OlaMundo$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula01/OlaMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula01/OlaMundo2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula01/OlaMundo2$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula01/OlaMundo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula02/DeclarandoVariaveis$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula02/DeclarandoVariaveis$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula02/DeclarandoVariaveis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula03/CriandoMetodosECondicoes$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula03/CriandoMetodosECondicoes$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula03/CriandoMetodosECondicoes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula04/CriandoMetodosAvancados$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula04/CriandoMetodosAvancados$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula04/CriandoMetodosAvancados.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula05/Funcionario$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula05/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula05/UpperCasePrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Bird$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/CardSuit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Club$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Club.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Diamond$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Diamond.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Employee$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/EmptyIntSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Fish$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Fish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Heart$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Heart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/HigherOrderFunctions$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/HigherOrderFunctions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/IntSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Mammal$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Mammal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/NonEmptyIntSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/PatternMatching$$anonfun$closuresPatternMatching$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/PatternMatching.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Person$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Spike$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Spike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/UpperCasePrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Utils$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/util/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/demo/ControlStructuresDemoUnitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/demo/EmployeeUnitTest$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/demo/EmployeeUnitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/demo/PatternMatchingUnitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/demo/RegexUnitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/demo/UtilsUnitTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,55 +76,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula06/Calculadora.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/ContaCorrente.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+            <state relative-caret-position="85">
+              <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula06/TesteHeranca.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/Conta.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula06/CalculadoraCientifica.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula04/CriandoMetodosAvancados.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="94" column="81" selection-start-line="94" selection-start-column="81" selection-end-line="94" selection-end-column="81" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula04/TesteParametersByValue.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="34">
+              <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula04/TesteParametersByName.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplotosco/Animal.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+            <state relative-caret-position="170">
+              <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplotosco/Dog.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -74,6 +117,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Scala Worksheet" />
+        <option value="Package Object" />
       </list>
     </option>
   </component>
@@ -82,6 +126,7 @@
       <find>def pow</find>
       <find>factori</find>
       <find>whileLoop</find>
+      <find>&lt;-</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -90,11 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Mathematician.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/Pet.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/Dog.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/Claculator.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/Calculator.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/Calculator.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/Calculadora.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/CalculadoraCientifica.scala" />
@@ -104,6 +144,48 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula04/CriandoMetodosAvancados.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula04/TesteParametersByValue.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula04/TesteParametersByName.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/teste/ClasseA.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/teste/EntidadeA.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/teste/EntidadeB.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/teste/EntidadeC.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/teste/TesteTraits.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/testeheranca/Pet.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/testeheranca/Dog.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/testeheranca/BaseC.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/testeheranca/BaseB.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/testeheranca/BaseA.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/testeheranca/TestadorHeranca.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/testeherancamultiplca/BaseA.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/herancamultiplca/BaseA.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/multipletraits/EntidadeA.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula03/CriandoMetodosECondicoes.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/multipletraits/EntidadeB.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/herancamultiplca/BaseC.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/herancamultipla/TestadorHerancaMultipla.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/multipletraits/EntidadeC.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/multipletraits/TesteMultiplosTraits.scala" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula06/herancamultipla/BaseC.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/Pet.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula04/IterandoComFor.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/herancamultipla/BaseC.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Gerente.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Autenticavel.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Cliente.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Diretor.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Engenheiro.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Secretario.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Funcionario.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Autenticavel.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Gerente.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/TesteSistema.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/TesteContas.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/TesteSistemaContas.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/ContaPoupanca.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/ContaCorrente.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/Conta.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplotosco/Dog.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplotosco/Animal.scala" />
       </list>
     </option>
   </component>
@@ -132,6 +214,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,6 +309,54 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="aula07" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-scala-inicio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-scala-inicio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="aula07" type="462c0819:PsiDirectoryNode" />
+              <item name="exemplotosco" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-scala-inicio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-scala-inicio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="aula07" type="462c0819:PsiDirectoryNode" />
+              <item name="herancamultipla" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-scala-inicio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-scala-inicio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="aula07" type="462c0819:PsiDirectoryNode" />
+              <item name="multipletraits" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-scala-inicio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-scala-inicio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="aula08" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-scala-inicio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-scala-inicio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -233,15 +364,19 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582836473664" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582921348193" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\c82922a\IdeaProjects\demo-scala-inicio\src\main\scala\com\demo\aula07\exemplosistema" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -255,9 +390,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ByValueParameters">
-    <configuration name="ByValueParameters" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.aula04.TesteParametersByValue" />
+  <component name="RunManager" selected="Application.TesteSistema">
+    <configuration name="IterandoComFor" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.aula04.IterandoComFor" />
       <module name="demo-scala-inicio" />
       <extension name="coverage">
         <pattern>
@@ -269,25 +404,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CriandoMetodosAvancados" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.aula04.CriandoMetodosAvancados" />
+    <configuration name="TestadorHeranca" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.aula07.herancamultipla.TestadorHerancaMultipla" />
       <module name="demo-scala-inicio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demo.aula04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteHeranca" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.aula06.TesteHeranca" />
-      <module name="demo-scala-inicio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.demo.aula06.*" />
+          <option name="PATTERN" value="com.demo.aula07.herancamultipla.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,11 +418,11 @@
       </method>
     </configuration>
     <configuration name="TesteParametersByName" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.aula04.TesteParametersByName" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.aula05.TesteParametersByName" />
       <module name="demo-scala-inicio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demo.aula04.*" />
+          <option name="PATTERN" value="com.demo.aula05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,22 +430,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scala Console" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true">
+    <configuration name="TesteSistema" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.aula07.exemplosistema.TesteSistema" />
       <module name="demo-scala-inicio" />
-      <setting name="vmparams4" value="-Djline.terminal=NONE" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="consoleArgs" value="-usejavacp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.aula07.exemplosistema.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteTraits" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.aula07.multipletraits.TesteMultiplosTraits" />
+      <module name="demo-scala-inicio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.aula07.multipletraits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ByValueParameters" />
+        <item itemvalue="Application.TesteSistema" />
+        <item itemvalue="Application.IterandoComFor" />
+        <item itemvalue="Application.TesteTraits" />
+        <item itemvalue="Application.TestadorHeranca" />
         <item itemvalue="Application.TesteParametersByName" />
-        <item itemvalue="Application.TesteHeranca" />
-        <item itemvalue="Scala Console.Scala Console" />
-        <item itemvalue="Application.CriandoMetodosAvancados" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +483,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -353,7 +492,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -361,7 +500,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -373,90 +512,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="46" lean-forward="true" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula01/OlaMundo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula01/OlaMundo2.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mathematician.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/math/package.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="276" column="61" lean-forward="true" selection-start-line="276" selection-start-column="61" selection-end-line="276" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula02/DeclarandoVariaveis.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula03/CriandoMetodosECondicoes.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="66" column="2" selection-start-line="66" selection-start-column="2" selection-end-line="76" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula06/Dog.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula06/Pet.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula06/Calculadora.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula06/TesteHeranca.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula06/CalculadoraCientifica.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/util/HigherOrderFunctions.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -464,38 +519,321 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula04/CriandoMetodosAvancados.scala">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="94" column="81" selection-start-line="94" selection-start-column="81" selection-end-line="94" selection-end-column="81" />
+        <state relative-caret-position="204">
+          <caret line="12" column="58" lean-forward="true" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula05/Funcionario.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/Calculadora.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/CalculadoraCientifica.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula06/testeheranca/Dog.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula06/testeheranca/Pet.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/util/Employee.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="132" selection-start-line="8" selection-start-column="132" selection-end-line="8" selection-end-column="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/multipletraits/TesteMultiplosTraits.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/multipletraits/EntidadeA.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/multipletraits/EntidadeB.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/multipletraits/EntidadeC.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/herancamultipla/BaseB.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/herancamultipla/BaseA.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/herancamultipla/TestadorHerancaMultipla.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula05/TesteParametersByName.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula05/TesteParametersByValue.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula06/Funcionario.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula05/TesteCriacaoClasse.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula06/TesteCriacaoClasse.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="75" lean-forward="true" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula04/TesteParametersByValue.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula05/CriandoMetodosAvancados.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="198">
+          <caret line="60" column="6" lean-forward="true" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula04/TesteParametersByName.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula01/OlaMundo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="61" lean-forward="true" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula01/OlaMundo2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula08/TesteFuncoesAnonimas.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/package.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/herancamultipla/BaseC.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula04/IterandoComFor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula02/DeclarandoVariaveis.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Cliente.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/TestePessoasSistemaInterno.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Diretor.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Engenheiro.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Funcionario.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Secretario.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Gerente.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Autenticavel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-end-line="9" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula03/CriandoMetodosECondicoes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Secretario.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Gerente.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Funcionario.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Engenheiro.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Diretor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Cliente.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/Autenticavel.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplosistema/TesteSistema.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/TesteHeranca.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="55" lean-forward="true" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/TesteSistemaContas.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/ContaPoupanca.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/Conta.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/ContaCorrente.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplotosco/Dog.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplotosco/Animal.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
         </state>
       </provider>
     </entry>
