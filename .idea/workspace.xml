@@ -3,15 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="eac4d014-f715-4916-845a-5c1f6904a81f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula04/CriandoMetodosAvancados.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula05/CriandoMetodosAvancados.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula04/TesteParametersByName.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula05/TesteParametersByName.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula04/TesteParametersByValue.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula05/TesteParametersByValue.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula05/Funcionario.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula06/Funcionario.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula05/TesteCriacaoClasse.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula06/TesteCriacaoClasse.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula06/Calculadora.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula07/Calculadora.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula06/CalculadoraCientifica.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula07/CalculadoraCientifica.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula06/TesteHeranca.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula07/TesteHeranca.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/Conta.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/Conta.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/ContaCorrente.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/ContaCorrente.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplotosco/Dog.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplotosco/Dog.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula01/OlaMundo$.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula01/OlaMundo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/demo/aula01/OlaMundo2$.class" beforeDir="false" />
@@ -76,28 +70,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/ContaCorrente.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/Conta.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplotosco/Animal.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+            <state relative-caret-position="51">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -106,7 +82,25 @@
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplotosco/Dog.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/ContaCorrente.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/Conta.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -182,10 +176,10 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/TesteContas.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/TesteSistemaContas.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/ContaPoupanca.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/ContaCorrente.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/Conta.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplotosco/Dog.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplotosco/Animal.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplotosco/Dog.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/Conta.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/ContaCorrente.scala" />
       </list>
     </option>
   </component>
@@ -367,7 +361,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582921348193" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582922610277" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -390,7 +384,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TesteSistema">
+  <component name="RunManager" selected="Application.TesteSistemaContas">
     <configuration name="IterandoComFor" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.demo.aula04.IterandoComFor" />
       <module name="demo-scala-inicio" />
@@ -417,12 +411,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteParametersByName" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.aula05.TesteParametersByName" />
+    <configuration name="TesteSistema" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.aula07.exemplosistema.TesteSistema" />
       <module name="demo-scala-inicio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demo.aula05.*" />
+          <option name="PATTERN" value="com.demo.aula07.exemplosistema.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -430,12 +424,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteSistema" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.aula07.exemplosistema.TesteSistema" />
+    <configuration name="TesteSistemaContas" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.aula07.exemploconta.TesteSistemaContas" />
       <module name="demo-scala-inicio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.demo.aula07.exemplosistema.*" />
+          <option name="PATTERN" value="com.demo.aula07.exemploconta.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -458,11 +452,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteSistemaContas" />
         <item itemvalue="Application.TesteSistema" />
         <item itemvalue="Application.IterandoComFor" />
         <item itemvalue="Application.TesteTraits" />
         <item itemvalue="Application.TestadorHeranca" />
-        <item itemvalue="Application.TesteParametersByName" />
       </list>
     </recent_temporary>
   </component>
@@ -483,7 +477,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -500,7 +494,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -809,31 +803,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/Conta.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplotosco/Animal.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/ContaCorrente.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplotosco/Dog.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemplotosco/Animal.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/Conta.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        <state relative-caret-position="85">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/demo/aula07/exemploconta/ContaCorrente.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="29" />
         </state>
       </provider>
     </entry>

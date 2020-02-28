@@ -1,6 +1,6 @@
 package com.demo.aula07.exemploconta
 
-abstract class Conta(var numeroConta: Int, var titular: String) {
+abstract class Conta(val numeroConta: Int, val titular: String) {
 
   // representa o saldo atual dessa conta
   protected var saldo = .0

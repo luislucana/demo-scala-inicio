@@ -1,6 +1,6 @@
 package com.demo.aula07.exemploconta
 
-class ContaCorrente(override var numeroConta: Int, override var titular: String)
+class ContaCorrente(override val numeroConta: Int, override val titular: String)
   extends Conta(numeroConta, titular) {
 
   override def gerarTaxa(): Unit = {
